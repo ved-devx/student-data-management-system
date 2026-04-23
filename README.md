@@ -26,6 +26,12 @@ A fully functional desktop application built using Python and Tkinter that allow
 
 ---
 
+## 📸 UI Preview
+
+![Amazon Price Tracker UI](ui_screenshot.png)
+
+---
+
 ## 🧠 How It Works
 
 ### Data Entry
